@@ -1,8 +1,8 @@
 ### SEJA BEM-VINDO !!! Eu sou o Gustavo Moreira
 
--🟡 Me desenvolvendo todos os dias.
--🟤Desenvolvedor jr Java full stack. 
--🟡Pronouns (Ele/Dele).
+- 🟡 Me desenvolvendo todos os dias.
+- 🟤Desenvolvedor jr Java full stack. 
+- 🟡Pronouns (Ele/Dele).
 
 <div 
   <a href="https://github.com/GuMore">
