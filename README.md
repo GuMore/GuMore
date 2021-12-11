@@ -1,13 +1,13 @@
 ### SEJA BEM-VINDO !!! Eu sou o Gustavo Moreira
 
-- 🍀 Me desenvolvendo todos os dias.
-- 👾 Desenvolvedor jr Java full stack. 
-- 💚 Pronouns (Ele/Dele).
+-🟡 Me desenvolvendo todos os dias.
+-🟤Desenvolvedor jr Java full stack. 
+-🟡Pronouns (Ele/Dele).
 
 <div 
   <a href="https://github.com/GuMore">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuMore&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuMore&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuMore&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuMore&layout=compact&langs_count=7&theme=maroongold"/>
 </div>
 
 <div style="display: inline_block"><br>
