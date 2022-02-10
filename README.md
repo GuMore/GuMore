@@ -1,7 +1,7 @@
 ### SEJA BEM-VINDO !!! ☺ Eu sou o Gustavo Moreira
 
 - 🟡 Me desenvolvendo todos os dias.
-- 🟤 Estudante da Generation Brasil. 
+- 🟤 Formado pela Generation Brasil. 
 - 🟡Pronomes (Ele/Dele).
 
 <div
